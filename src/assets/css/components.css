@@ -1,0 +1,66 @@
+.counter_1 {
+  padding: 6px;
+}
+
+.navbar_1 {
+  -webkit-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  margin-bottom: 40px;
+}
+
+.icons_1 {
+  margin-left: 8px;
+}
+.btns_1 {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+.controls_1 {
+  margin-left: 10px;
+  margin-right: 20px;
+  -webkit-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  height: 400px;
+  padding: 30px;
+}
+
+.chart_1 {
+  margin-right: 10px;
+  -webkit-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  padding: 0;
+  margin-right: 0px;
+  margin-bottom: 80px;
+}
+
+.chart_2 {
+  -webkit-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+  box-shadow: 8px 13px 20px 2px rgba(0, 0, 0, 0.59);
+}
+
+.charts_rows_1 {
+  margin-top: 60px;
+}
+
+.label_1 {
+  margin-right: 20px;
+}
+
+.table_1 {
+  border-radius: 5px;
+  width: 60%;
+  margin: 0px auto;
+  float: none;
+  margin-bottom: 80px;
+}
+
+.logo_1 {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
